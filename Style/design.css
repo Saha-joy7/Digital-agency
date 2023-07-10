@@ -29,7 +29,7 @@ a{
     
 }
 .banner{
-    background-image: url("../asset/image/background.jpg") , linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4));
+    background-image: url("../asset/image/Young-team-working-together-in-a-meeting-room.webp");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -193,4 +193,14 @@ small{
 }
 .about-blog{
     font: 10px;
+}
+.about-webpage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 450px;
+    background-image: url(../asset/image/footer-bg.png);
+    background-color: rgb(59, 53, 53);
+    color: white;
+    margin: 40px;
 }
